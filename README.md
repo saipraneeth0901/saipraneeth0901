@@ -7,7 +7,7 @@
 </h3>
 
 
-A 21 Y/O Developer 💻 passionate about Python 🐍, Web Development 🌐, and ML/AI 🤖. I enjoy building cool projects, automating tasks, designing efficient solutions, and deploying machine learning models. Strong believer in open source 🌍, clean design 🎨, and meaningful learning 🧠.
+A 22 Y/O Developer 💻 passionate about Python 🐍, Web Development 🌐, and ML/AI 🤖. I enjoy building cool projects, automating tasks, designing efficient solutions, and deploying machine learning models. Strong believer in open source 🌍, clean design 🎨, and meaningful learning 🧠.
 
 ![age](https://img.shields.io/badge/age-21-blue)
 ![focus](https://img.shields.io/badge/focus-Python_&_ML_Dev-brightgreen)
