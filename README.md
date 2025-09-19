@@ -60,7 +60,6 @@ REST APIs, Responsive Web Design, Data Scraping, Machine Learning, Model Deploym
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" >
 
 ### Show some ❤️ by starring ⭐ your favorite repositories!
 
