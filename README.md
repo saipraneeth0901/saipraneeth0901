@@ -48,7 +48,7 @@ REST APIs, Responsive Web Design, Data Scraping, Machine Learning, Model Deploym
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=saipraneeth-09&show_icons=true&theme=radical" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=saipraneeth0901&show_icons=true&theme=radical" width="45%" align="right" >
 
 
 ---
@@ -56,7 +56,7 @@ REST APIs, Responsive Web Design, Data Scraping, Machine Learning, Model Deploym
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-praneeth-ba14962aa/)
-[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/saipraneeth-09)
+[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/saipraneeth0901)
 
 <br><br>
 
